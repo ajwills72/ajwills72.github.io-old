@@ -10,6 +10,8 @@ RANDOM NOTE
 
 # Publications
 
+## 2020s
+
 Seabrooke, T., Mitchell, C. J., Wills, A. J., & Hollins, T. J. (in press). [Pretesting boosts recognition, but not cued recall, of targets from unrelated word pairs](pu060.md). Psychonomic Bulletin and Review. Accepted: 26 November 2019.
 
 Spicer, S.G., Mitchell, C.J., Wills, A.J., & Jones, P.M. (2020). [Theory protection in associative learning: humans maintain certain beliefs in a manner that violates prediction error](pu048.md). _Journal of Experimental Psychology: Animal Learning and Cognition, 46_, 151-161. Accepted: 19 July 2019. Published: April 2020.
@@ -17,6 +19,8 @@ Spicer, S.G., Mitchell, C.J., Wills, A.J., & Jones, P.M. (2020). [Theory protect
 Wills, A.J., Ellett, L., Milton, F., Croft, G., & Beesley, T. (2020). [A dimensional summation account of polymorphous category learning](pu077.md). _Learning and Behavior, 48_, 66-83. Accepted: 23 December 2019. Published: 13 March 2020.
 
 Milton, F., McLaren, I.P.L., Copestake, E., Satherley, D., & Wills, A.J. (2020). [The effect of pre-exposure on overall similarity categorization](pu003.md). _Journal of Experimental Psychology: Animal Learning and Cognition, 46_, 65-82. Accepted: 3 August 2019. Published: January 2020.
+
+## 2010s
 
 Wills, A.J., Edmunds, C.E.R., Le Pelley, M.E., Milton, F., Newell, B.R., Dwyer, D.M., & Shanks, D.R. (2019). [Dissociable learning processes, associative theory, and testimonial reviews: A comment on Smith and Church (2018)](pu066.md). _Psychonomic Bulletin & Review, 26_, 1988-1993. Accepted: 1 July 2019. Published: 13 August 2019.
 
@@ -128,6 +132,8 @@ McLaren, I.P.L., Wills, A.J., & Graham, S. (2010). [Attention and Perceptual Lea
 
 Hopewell, L., Leaver, L.A., Lea, S.E.G., & Wills, A.J. (2010). [Grey squirrels (Sciurus carolinensis) show a feature-negative effect specific to social learning](pu132.md). _Animal Cognition, 13_, 219-227. Published: 09 July 2009
 
+## 2000s
+
 Wills, A.J., Lea, S.E.G., Leaver, L.A., Osthaus, B., Ryan, C.M.E., Suret, M.B., Bryant, C.M.L., Chapman, S.J., & Millar, L. (2009). [A comparative analysis of the categorization of multidimensional stimuli: I. Unidimensional classification does not necessarily imply analytic processing; evidence from pigeons (Columba livia), squirrels (Sciurus carolinensis), and humans (Homo sapiens)](pu130.md). _Journal of Comparative Psychology, 123,_ 391-405. Published: 1 November 2009.
 
 Lea, S.E.G., Wills, A.J., Leaver, L.A., and Ryan, C.M.E., Bryant, C.M.L., & Millar, L. (2009). [A comparative analysis of the categorization of multidimensional stimuli: II. Strategic information search in humans (Homo sapiens) but not in pigeons (Columba livia)](pu131.md). _Journal of Comparative Psychology, 123_, 406-420. Published: 1 November 2009.
@@ -164,13 +170,13 @@ Zwickel, J., & Wills, A.J. (2005). [Integrating associative models of supervised
 
 Wills, A.J. (2005). [Applications and extensions](pu118.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 189-191). Lawrence Erlbaum Associates.
 
-Le Pelley, M.E., Oakeshott, S.M., Wills, A.J., & McLaren, I.P.L. (2005). [The outcome-specificity of learned predictiveness effects: Parallels between human causal learning and animal conditioning](pu113md). _Journal of Experimental Psychology: Animal Behavior Processes, 31,_ 2226-236.Published: 1 April 2005.
+Le Pelley, M.E., Oakeshott, S.M., Wills, A.J., & McLaren, I.P.L. (2005). [The outcome-specificity of learned predictiveness effects: Parallels between human causal learning and animal conditioning](pu113.md). _Journal of Experimental Psychology: Animal Behavior Processes, 31,_ 2226-236.
 
-Bryant, C.M., Jones, G.J.F., & Wills, A.J. (2004). [Integration of psychological models in the design of artificial creatures](pu112.md). _Proceedings of the AISB 2004 symposium on Emotion, Cognition and Affective Computing_ (pp. 9-20). Published: 29 March 2004.
+Bryant, C.M., Jones, G.J.F., & Wills, A.J. (2004). [Integration of psychological models in the design of artificial creatures](pu112.md). _Proceedings of the AISB 2004 symposium on Emotion, Cognition and Affective Computing_ (pp. 9-20).
 
-Milton, F., & Wills, A.J. (2004). [The influence of stimulus properties on category construction](pu111.md). _Journal of Experimental Psychology: Learning, Memory and Cognition, 30,_ 407-415. Published: 1 March 2004.
+Milton, F., & Wills, A.J. (2004). [The influence of stimulus properties on category construction](pu111.md). _Journal of Experimental Psychology: Learning, Memory and Cognition, 30,_ 407-415.
 
-Wills, A.J., Suret, M.B., & McLaren, I.P.L. (2004). [The role of category structure in determining the effects of stimulus preexposure on categorization accuracy](pubs/pu110.md). _Quarterly Journal of Experimental Psychology, 57B,_ 79-88. Published: 1 January 2004.
+Wills, A.J., Suret, M.B., & McLaren, I.P.L. (2004). [The role of category structure in determining the effects of stimulus preexposure on categorization accuracy](pubs/pu110.md). _Quarterly Journal of Experimental Psychology, 57B,_ 79-88. 
 
 Goto, K., Wills, A.J., & Lea, S.E.G. (2004). [Global-feature classification can be acquired more rapidly than local-feature classification in both humans and pigeons](pubs/pu109.md). _Animal Cognition, 7_, 109-113. 
 
@@ -183,6 +189,8 @@ Zwickel, J., & Wills, A.J. (2002). [Is competitive learning an adequate account 
 Wills, A.J. (2002). [Adapting to a response deadline in categorization](pubs/pu105.md). In W.D. Gray, & C.D. Schunn (Eds.). _Proceedings of the 24th Annual Conference of the Cognitive Science Society_ (pp. 938-943). Mahwah, NJ: Lawrence Erlbaum Associates. Published: August 2002.
 
 Wills, A.J., Reimers, S., Stewart, N., & McLaren, I.P.L. (2000). [Tests of the ratio rule in categorization](pubs/pu104.md). _Quarterly Journal of Experimental Psychology, 53A,_ 983-1011. 
+
+## 1990s
 
 Wills, A.J., & McLaren, I.P.L. (1998). [Perceptual learning and free classification](pubs/pu103.md). _Quarterly Journal of Experimental Psychology, 51B_, 235-270. 
 
