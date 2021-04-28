@@ -1,4 +1,8 @@
-# Preprints
+# Publications
+
+A comprehensive list of my publications; click on the title to access the full text of the article, plus any other public resources relating to the publication (e.g. raw data, analysis scripts). 
+
+## Preprints
 
 Inkster, A., Mitchell, C. J., Schlegelmilch, R., & Wills, A. J. [Effect of a context shift on the inverse base rate effect](pu075.md).
 
@@ -6,9 +10,6 @@ Inkster, A.B., Milton, F., Edmunds, C.E.R., Benattayallah, A., & Wills, A.J. [Ne
 
 Edmunds, C.E.R., Inkster, A.B., Jones, P.M., Milton, F., & Wills, A.J. [Absence of cross-modality analogical transfer in perceptual categorization](pu008.md).
 
-RANDOM NOTE
-
-# Publications
 
 ## 2020s
 
@@ -154,21 +155,17 @@ Lea, S.E.G., & Wills, A.J. (2008). [Use of multiple dimensions in learned discri
 
 Haslam, C., Wills, A.J., Haslam, S.A., Kay, J., Baron, R., & McNab, F. (2007). [Does maintenance of colour categories rely on language? Evidence to the contrary from a case of semantic dementia](pu122.md). _Brain and Language, 103_, 251-263. Published: 31 October 2007.
 
-Wills, A.J., Lavric, A., Croft, G., & Hodgson, T.L. (2007). [Predictive learning, prediction errors and attention: Evidence from event-related potentials and eye tracking](pu121.md). _Journal of Cognitive Neuroscience, 19_, 843-854. Published: 8 May 2007.
+GOT UP TO HERE.
 
-Wills, A.J., Noury, M., Moberly, M.J., & Newport, M. (2006). [Formation of category representations](pu120.md). _Memory and Cognition, 34_, 17-27. Published: January 2006.
+Wills, A.J., Lavric, A., Croft, G., & Hodgson, T.L. (2007). [Predictive learning, prediction errors and attention: Evidence from event-related potentials and eye tracking](pubs/pu121.md). _Journal of Cognitive Neuroscience, 19_, 843-854. Published: 8 May 2007.
 
-Lea, S.E.G., Wills, A.J., & Ryan, C.M.E. (2006). [Why are artificial polymorphous concepts so hard for birds to learn?](pu119.md). _Quarterly Journal of Experimental Psychology, 59_, 251-267. Published: 13 July 2005
+Wills, A.J., Noury, M., Moberly, M.J., & Newport, M. (2006). [Formation of category representations](pubs/pu120.md). _Memory and Cognition, 34_, 17-27.
 
-Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pu114.md). Hove: Lawrence Erlbaum Associates. 
+Lea, S.E.G., Wills, A.J., & Ryan, C.M.E. (2006). [Why are artificial polymorphous concepts so hard for birds to learn?](pubs/pu119.md) _Quarterly Journal of Experimental Psychology, 59_, 251-267.
 
-Wills, A.J. (2005). [Association and cognition](pu115.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 1-9). Lawrence Erlbaum Associates.
+Wills, A.J. (2005, Ed.). [New Directions in Human Associative Learning](pubs/pu114.md). Hove: Lawrence Erlbaum Associates. 
 
-Wills, A.J. (2005). [Connectionist models of human associative learning](pu116.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 95-99). Lawrence Erlbaum Associates. [pdf]
-
-Zwickel, J., & Wills, A.J. (2005). [Integrating associative models of supervised and unsupervised categorization](pu117.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 101-123). Lawrence Erlbaum Associates.
-
-Wills, A.J. (2005). [Applications and extensions](pu118.md). In A.J. Wills (Ed.). New Directions in Human Associatve Learning (pp. 189-191). Lawrence Erlbaum Associates.
+Zwickel, J., & Wills, A.J. (2005). [Integrating associative models of supervised and unsupervised categorization](pubs/pu117.md). In A.J. Wills (Ed.). _New Directions in Human Associatve Learning_ (pp. 101-123). Lawrence Erlbaum Associates.
 
 Le Pelley, M.E., Oakeshott, S.M., Wills, A.J., & McLaren, I.P.L. (2005). [The outcome-specificity of learned predictiveness effects: Parallels between human causal learning and animal conditioning](pubs/pu113.md). _Journal of Experimental Psychology: Animal Behavior Processes, 31,_ 2226-236.
 
